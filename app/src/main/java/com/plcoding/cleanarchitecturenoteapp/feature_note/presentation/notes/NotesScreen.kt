@@ -62,7 +62,7 @@ fun NotesScreen(
                     text = "Noteable",
                     style = MaterialTheme.typography.h4,
                     fontFamily = Poppins,
-                    color = Color.DarkGray
+                    color = Color.LightGray
                 )
                 IconButton(
                     onClick = {
